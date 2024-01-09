@@ -1,12 +1,12 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "ReactJS Mastery Course",
+  "text": "Do you have a wish to be a expert front-end developer? Unlock the power of modern web development with my comprehensive React.js course! ",
   "button": [
     {
-      "title": "Explore"
+      "title": "Discover Now"
     },
     {
-      "title": "Learn more",
+      "title": "Get Started",
       "color": "#fff"
     }
   ]

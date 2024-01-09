@@ -32,6 +32,7 @@ export const ServiceWrapper = styled("div")`
   display: flex;
   justify-content: space-between;
   max-width: 100%;
+  flex-direction: column;
 `;
 
 export const MinTitle = styled("h6")`
@@ -41,6 +42,7 @@ export const MinTitle = styled("h6")`
   text-transform: uppercase;
   color: #000;
   font-family: "Motiva Sans Light", sans-serif;
+  font-weight: 700;
 `;
 
 export const MinPara = styled("p")`

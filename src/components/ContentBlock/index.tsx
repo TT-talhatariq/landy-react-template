@@ -25,6 +25,7 @@ const ContentBlock = ({
   t,
   id,
   direction,
+  midInt,
 }: ContentBlockProps) => {
   const scrollTo = (id: string) => {
     const element = document.getElementById(id) as HTMLDivElement;
@@ -74,6 +75,7 @@ const ContentBlock = ({
                 </ButtonWrapper>
               ) : (
                 <ServiceWrapper>
+                  <h4 style={{ fontSize: "1.8rem" }}>{midInt}</h4>
                   <Row justify="space-between">
                     {typeof section === "object" &&
                       section.map(

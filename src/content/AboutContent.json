@@ -1,16 +1,26 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Meet Talha Tariq",
+  "text": "Talha Tariq is the instructor of this course. He's a talented software engineer, Fiverr & Upwork freelancer, Author of many e-books, and programming instructor of thousands of students to make them capable of building web applications.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
+      "title": "Experienced Teacher",
+      "content": "Talha has taught 1000+ international students 1-to-1 and through bootcamps",
+      "icon": "education.jpg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
+      "title": "Skilled Freelancer",
+      "content": "Talha is known for his exceptional on Upwork and Fiverr, helping many clients with their projects.",
+      "icon": "freelance.png"
+    },
+    {
+      "title": "Hackathon Winner",
+      "content": "Talha's creativity and problem-solving have helped him win several web hackathons during university times.",
+      "icon": "trophy.jpg"
+    },
+    {
+      "title": "Author",
+      "content": "Talha has written several articles & books on programming and personal development.",
+      "icon": "writer.png"
     }
   ]
 }

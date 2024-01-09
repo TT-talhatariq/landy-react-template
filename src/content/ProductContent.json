@@ -1,4 +1,29 @@
 {
-  "title": "That's about it!",
-  "text": "If you are familiar with React, or SPA frameworks in general, there shouldn't be any confusing parts about this template. if not, you can always reach out to me and I'll try me best to answer your questions."
+  "title": "Course Features",
+
+  "text": "This course offers is designed wisely by including basic to advance Topics, Quizzes, Assignments, and couple of real world Projects. You will also get a certificate of completion after completing the course.",
+  "section": [
+    {
+      "title": "Topics",
+      "content": "It includes basics to advanced topics like React Components, Props, Redux, Styling, React Router, API Integration, Hooks and much more.",
+      "icon": "education.jpg"
+    },
+    {
+      "title": "3+ Quizzes",
+      "content": "Quizzes are designed to help you test your knowledge and understanding of the course. You will get a quiz after each section.",
+
+      "icon": "freelance.png"
+    },
+
+    {
+      "title": "6+ Projects",
+      "content": "Projects are designed to help you practice the concepts you have learned in the course. You will get a project after each section.",
+      "icon": "trophy.jpg"
+    },
+    {
+      "title": "Certificate",
+      "content": "You will get a certificate of completion after completing the course.",
+      "icon": "writer.png"
+    }
+  ]
 }
